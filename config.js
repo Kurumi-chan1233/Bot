@@ -16,10 +16,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Je3aA9mDggk4ykHnf1oIY8', ''] // ganti jadi group lu
-global.owner = ['6289671029065'] // Put your number here //owner eval
-global.kontak = ['6289671029065','0'] //Ketika ada yang ngetik #owner
-global.mods = ['6289671029065'] // Want some help?
-global.prems = ['6289671029065'] // Premium user has unlimited limit
+global.owner = ['6285803688550'] // Put your number here //owner eval
+global.kontak = ['6285803688550','6285803688550'] //Ketika ada yang ngetik #owner
+global.mods = ['6285803688550'] // Want some help?
+global.prems = ['6285803688550'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -56,9 +56,9 @@ bearkey = 'buy'
 //xteam        MIMINETBOT
 namaig = 'https://instagram.com/drak_ipul123'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih Tod`
-namakontak1 = 'tod'
-namakontak2 = 'TOD'
+kasihcaption = `Nih Broh🗿`
+namakontak1 = 'Kurumi'
+namakontak2 = 'Kurumi'
 
 //kasihcaption = `Nih Kak`
 
